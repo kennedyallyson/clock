@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100%;
+    cursor: none;
+}
+
+body {
+    background-color: #000;
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://bing.biturl.top/?resolution=1920&format=image&index=0&mkt=en-US);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.clock {
+    color: #fff;
+    font-size: 200px;
+    text-align: center;
+    margin-top: 25vh;
+}
