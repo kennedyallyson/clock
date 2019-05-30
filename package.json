@@ -1,14 +1,19 @@
 {
   "name": "clock",
   "version": "1.0.0",
-  "description": "A simple and beautiful clock to relax.",
+  "description": "A clean and beautiful digital clock.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "clock",
+    "time",
+    "digital",
+    "relax"
+  ],
+  "author": "Kennedy Allyson",
+  "license": "MIT",
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.17.0"
